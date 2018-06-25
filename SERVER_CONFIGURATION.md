@@ -17,4 +17,5 @@ Some of the features include:
 - DDOS PROTECTION
     20Gbps DDoS Protection
     
-    Security of your TRX tokens is our priority!
+    
+ Security of your TRX tokens is our priority!
