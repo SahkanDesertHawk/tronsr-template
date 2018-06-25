@@ -1,1 +1,3 @@
-Supply a clear budget line.
+Initial Infrastructure budget: $500,000
+
+The financial mission of team is to deploy a sustainable and user friendly TRON Infrastructure. We will strive maintain infrastructure capacity and aggressively deploy TRX nodes to aid any existing infrastructure without sacrificing users' ability to use the TRON network. After we deploy our initial nodes, we will focus intensely on increasing capacity as required to allow seamless operation of the TRON blockchain. We want to accomplish this transparently without users worring about high latency connections and choke points on the network. We also want to teach others the ins and outs of this new exciting technology.
