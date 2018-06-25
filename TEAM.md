@@ -1,14 +1,16 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Ralph aka sahkan
 
-## Team Member 1
+Role: Co-Founder, Developer and Chief Technical Officer
 
-Name: [name]
-Role: [role]
+23+ years of computer background and system administration of Linux/Unix based servers. 6 years of working with blockchain
+technologies and 1+ year of working directly with DPOS blockchains.
 
-## Team Member 2
+BBA in Business Administration with Concentration in Management
+MS in Computer Science
+CCNA, CISSP
 
-Name: [name]
-Role: [role]
+In addition we have a small team of experts but we are always looking for more!
+
+I am the most active on https://www.telegram.org and I can be reached at @Sahkan_bitshares
