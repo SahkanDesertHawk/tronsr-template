@@ -16,6 +16,4 @@ Some of the features include:
     We utilize Psychz APLLR for the lowest possible latency to Asia
 - DDOS PROTECTION
     20Gbps DDoS Protection
-    
-    
- Security of your TRX tokens is our priority!
+- Security of your TRX tokens is our priority!
