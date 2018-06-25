@@ -17,4 +17,4 @@ Some of the features include:
 - DDOS PROTECTION
     20Gbps DDoS Protection
     
-    <b>Security of your TRONs is our priority!</b>
+    <b>Security of your TRX tokens is our priority!</b>
