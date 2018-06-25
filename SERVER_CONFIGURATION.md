@@ -7,7 +7,7 @@ Our severs are scalable and load balanced for the maximum flexibility and availa
 A sample SR or Seed server: Dual Quad-Core Xeon X5560 (8 Cores and 16 Threads), 96GB RAM, 960GB SSD, unmetered bandwidth.
 
 A sample full node on a load balancer:
-HP BL865 G7 AMD Opteron 48 Core, 48 x 2.1GHz,  2x 1TB SSD, 512GB RAM, unmetered bandwidth
+HP BL865 G7 AMD Opteron 48 Core, 48 x 2.1GHz,  2x 1TB SSD, 512GB RAM, unmetered bandwidth.
 
 Some of the features include:
  - SSD STORAGE
