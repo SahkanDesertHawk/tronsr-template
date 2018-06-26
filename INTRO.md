@@ -4,4 +4,4 @@ https://dexnode.net
 
 We are 1 of only 27 Super Representatives Candidates selected and promoted by the Tron Foundation for the mainnet launch:
 
-https://medium.com/tron-foundation/guide-to-independence-your-super-representative-candidates-61377142b814
+[Guide to Independence](https://medium.com/tron-foundation/guide-to-independence-your-super-representative-candidates-61377142b814)
