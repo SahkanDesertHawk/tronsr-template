@@ -1,4 +1,4 @@
-To protect the TRON Super representative servers (and the TRON network as a whole) our SR server location is not disclosed. The full nodes on the other hand will be deployed in US and EUrope, some of the sample locations include:
+To protect the TRON Super Representative servers (and the TRON network as a whole) our SR server/backup location is not disclosed. The full nodes on the other hand will be deployed around the Globe, some of the sample locations include:
 Los Angeles (USA), Seattle (USA), Dallas (USA), New York (USA) and London (UK)
 
 
