@@ -1,6 +1,6 @@
 ## Founder
 
-Ralph aka sahkan
+Rafal
 
 Role: Co-Founder, Developer and Chief Technical Officer
 
